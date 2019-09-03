@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol</string>
+    <string name="gasolinaLabel">Preço da Gasolina: </string>
+    <string name="etanolLabel">Preço do Etanol: </string>
+    <string name="bestChoice">É melhor utilizar...</string>
+    <string name="gasolina">GASOLINA</string>
+    <string name="etanol">ETANOL</string>
+</resources>

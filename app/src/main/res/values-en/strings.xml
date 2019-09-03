@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gasoline or Ethanol</string>
+    <string name="etanolLabel">Ethanol Price: </string>
+    <string name="bestChoice">It is better to use...</string>
+    <string name="gasolinaLabel">Gasoline price:</string>
+    <string name="gasolina">GASOLINE</string>
+    <string name="etanol">ETHANOL</string>
+</resources>
